@@ -3,6 +3,6 @@
   <version>0.0.1</version>
 
   <!-- These links wire up the new version available alert in Mod Manager -->
-  <manifestUri>https://raw.githubusercontent.com/AngleWyrm10/HelloWorld/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/AngleWyrm10/HelloWorld/releases/latest</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/xmanyellow/RimtelComputers/refs/heads/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/xmanyellow/RimtelComputers/releases/latest</downloadUri>
 </Manifest>
