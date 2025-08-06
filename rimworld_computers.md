@@ -16,8 +16,10 @@ This would be somewhere between Whaley's and Rimputer
 - Customize higher end computers with additional graphics (recreation) or processing (research) components
 - Produce games or learning materials that can be used or sold
 - [LT] AR headsets that improve other skills (shooting, construction, etc.)
+- Basically a big expansion on the book system - need additional resources and investment for additional rewards
+- Mind implant units to save space for very high-tech gravships
 
-
+"Zell" computers instead of Dell
 
 ### Open Rimputers
 Closer to what OpenComputers does for minecraft. I think this is a cool concept but I don't see as many use cases right now.
